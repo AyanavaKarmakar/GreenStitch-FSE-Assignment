@@ -1,7 +1,7 @@
 ### Tech Used
 
 1. Next.js
-2. TyepScript
+2. TypeScript
 3. NextAuth.js
 4. Prisma
 5. Tailwind CSS
