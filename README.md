@@ -13,3 +13,11 @@
 ```bash
 npm install
 ```
+
+2. Create a `.env.local` file and add the secrets required in `.env.example`
+
+3. Run the app
+
+```bash
+npm run dev
+```
